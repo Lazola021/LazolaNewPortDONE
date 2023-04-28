@@ -1,0 +1,110 @@
+p{
+  font: Helvetica;
+  font-size: large;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+h2{
+  color: white;
+  text-align: center;
+}
+h3{
+  color:white;
+  size:1900px;
+text-align: center;
+}
+h4{
+  color:white;
+  size:1900px;
+text-align: center;
+}
+h5{
+  position: relative; left:300px;
+}
+h6{
+  position: relative; left:300px;
+  size:600px;
+}
+h7{
+  position: relative; left:300px;
+}
+
+nav {
+  background-color: #111;
+  height: 50px;
+  font-size: large;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color:lightblue;
+}
+
+img{
+  position: relative; left:300px;
+}
+
+form{
+  size: 3000px;
+ 
+}
+iframe{
+  position:relative; left:600px;
+}
+.item{
+  position: relative; right:300px;
+}
+.container {
+  align-items: center; 
+  float: left;
+}
+footer{
+ text-align: center;
+ position: relative; bottom:-600px; left:-245px
+}
+input[type=text] {
+  box-sizing: border-box;
+  position:relative; left:500px; bottom: -20px;
+  font-size: large;
+}
+#fname{
+  font-size: larger;
+  position:relative; left:10px; top:-2px;
+}
+#lname{
+  font-size: larger;
+  position:relative; left:10px; top:-2px;
+}
+label{
+  font-size: large;
+}
+input[type=email]{
+  font-size: large;
+}
+input[type=submit]{
+  font-size: large;
+}
